@@ -31,10 +31,19 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'elzero-template.png',
+    title: 'Elzero Template',
+    info: 'Elzero Template is a creative one-page PSD template made by Elzero great for a portfolio, agency, or any other web page.PSD file that is fully layered and grouped. Free google font used.',
+    info2: 'I have used my skills in HTML CSS and javascript to convert this PSD file into code.',
+    url: 'https://samehrefaay.github.io/elzero-template-repo/',
+    repo: 'https://github.com/SamehRefaay/elzero-template-repo', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'kasper.jpg',
     title: 'Kasper Landing Page',
-    info: '● Kasper is a creative one-page PSD template made by Graphberry great for a portfolio, agency, or any other web page.PSD file that is fully layered and grouped. Free google font used.',
-    info2: '● I have used my skills in HTML CSS and javascript to convert this PSD file into code.',
+    info: 'Kasper is a creative one-page PSD template made by Graphberry great for a portfolio, agency, or any other web page.PSD file that is fully layered and grouped. Free google font used.',
+    info2: 'I have used my skills in HTML CSS and javascript to convert this PSD file into code.',
     url: 'https://samehrefaay.github.io/kasper-template-repo/',
     repo: 'https://github.com/SamehRefaay/kasper-template-repo', // if no repo, the button will not show up
   },
@@ -42,8 +51,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'weather-journal.jpg',
     title: 'Weather Journal App',
-    info: '●	Develop an asynchronous web app that uses Web API and user data to dynamically update the UI.',
-    info2: '●	Connect web application to backend server data using JavaScript.',
+    info: 'Develop an asynchronous web app that uses Web API and user data to dynamically update the UI.',
+    info2: 'Connect web application to backend server data using JavaScript.',
     url: 'https://github.com/SamehRefaay/udacity-weather-journal',
     repo: 'https://github.com/SamehRefaay/udacity-weather-journal', // if no repo, the button will not show up
   },
@@ -51,8 +60,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'leon.jpg',
     title: 'Leon Landing Page',
-    info: '● Leon is a free PSD template made by Graphberry. It comes in a modern, flat design with vibrant colors. This landing page is great for representing your portfolio or other websites.',
-    info2: '● I have translated the design into code using my skills in HTML and CSS. ',
+    info: 'Leon is a free PSD template made by Graphberry. It comes in a modern, flat design with vibrant colors. This landing page is great for representing your portfolio or other websites.',
+    info2: 'I have translated the design into code using my skills in HTML and CSS. ',
     url: 'https://samehrefaay.github.io/leon_template_repo/',
     repo: 'https://github.com/SamehRefaay/leon_template_repo', // if no repo, the button will not show up
   },
