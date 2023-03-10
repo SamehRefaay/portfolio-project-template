@@ -22,13 +22,22 @@ export const aboutData = {
   paragraphTwo:
     'My latest web app keeps people up to date with the latest developments in global weather.',
   paragraphThree:
-    'right now I am Working on improving my skills in JavaScript, Express, Node js, React, AngularJS, and SQL.',
+    'Right now I am intersted in MERN stack and Working on improving my skills in MongoDB, Express, React and Node.',
   resume:
     'https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fee6c638-0a34-451e-95da-50a7e4f0a897', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'elzero-dashboard.png',
+    title: 'Elzero Dashboard',
+    info: 'Elzero Dashboard is a creative multi-page website designed by Osama Elzero who shares it as a free design. this design is great for a portfolio, agency, or any other web page. Free google font (Cairo Font) used.',
+    info2: 'I have used my skills in HTML CSS to convert this PSD file into code.',
+    url: 'https://samehrefaay.github.io/elzero-dashboard/index.html',
+    repo: 'https://github.com/SamehRefaay/elzero-dashboard', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'elzero-template.png',
