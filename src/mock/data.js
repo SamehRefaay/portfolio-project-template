@@ -33,7 +33,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'filmpire.png',
     title: 'Filmpire',
-    info: 'Filmpire is a creative multi-page website clone of the Netflix app. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , Redux for state management, and more. using API named TMDB gives the user the ability to log in and log out and to search movies by categories or by names and also add them to either a favorite list or watchlist to enjoy them later. I implement also Alan Ai to assist the user to do some useful functions just by talking with the app.',
+    info: 'Filmpire is a creative multi-page website clone of the Netflix app. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , Redux for state management, and more.',
+    info2:'Using TMDB API gives the user the ability to log in and log out choosing between light mode and dark mode, search movies by categories or by names and also add them to either a favorite list or watchlist to enjoy them later. I implement also Alan Ai to assist the user to do some useful functions just by talking with the app.',
     url: 'https://filmpire-samehrefaay.netlify.app/',
     repo: 'https://github.com/SamehRefaay/filmpire_smr', // if no repo, the button will not show up
   },
