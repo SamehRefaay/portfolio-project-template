@@ -40,6 +40,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'admin-dashboard.png',
+    title: 'Admin Dashboard',
+    info: 'Admin Dashboard is a creative multi-page website great for any admin or IT dashboard. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , and more.',
+    info2: 'the dashboard has two mode light mode and dark one with alot of charts and data tables i hope you find this interesting',
+    url: 'https://admin-dashboard-samehrefaay.netlify.app/',
+    repo: 'https://github.com/SamehRefaay/admin_dashboard_repo', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'elzero-dashboard.png',
     title: 'Elzero Dashboard',
     info: 'Elzero Dashboard is a creative multi-page website designed by Osama Elzero who shares it as a free design. this design is great for a portfolio, agency, or any other web page. Free google font (Cairo Font) used.',
@@ -64,15 +73,6 @@ export const projectsData = [
     info2: 'I have used my skills in HTML CSS and javascript to convert this PSD file into code.',
     url: 'https://samehrefaay.github.io/kasper-template-repo/',
     repo: 'https://github.com/SamehRefaay/kasper-template-repo', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'weather-journal.jpg',
-    title: 'Weather Journal App',
-    info: 'Develop an asynchronous web app that uses Web API and user data to dynamically update the UI.',
-    info2: 'Connect web application to backend server data using JavaScript.',
-    url: 'https://github.com/SamehRefaay/udacity-weather-journal',
-    repo: 'https://github.com/SamehRefaay/udacity-weather-journal', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
