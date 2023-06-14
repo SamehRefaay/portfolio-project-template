@@ -18,11 +18,11 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: `A software engineer who loves to build web apps to make people's life easier.`,
+  paragraphOne: `I am a software engineer who likes to craft solid and scalable frontend products with great user experiences.`,
   paragraphTwo:
-    'My latest web app keeps people up to date with the latest developments in global weather.',
-  paragraphThree:
-    'Right now I am intersted in MERN stack and Working on improving my skills in MongoDB, Express, React and Node.',
+    'I have a BA in Electronics Engineering from El Shorouk University 🇪🇬 , a Certificate of Professional Web Development from Udacity.',
+  paragraphThree: `I'm happiest when I'm creating, learning, exploring, and thinking about how to make things better. I'm available for any freelance work, feel free to reach out and say hello! `,
+  // 'Right now I am intersted in MERN stack and Working on improving my skills in MongoDB, Express, React and Node.',
   resume:
     'https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:fee6c638-0a34-451e-95da-50a7e4f0a897', // if no resume, the button will not show up
 };
@@ -33,8 +33,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'filmpire.png',
     title: 'Filmpire',
-    info: 'Filmpire is a creative multi-page website clone of the Netflix app. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , Redux for state management, and more.',
-    info2:'Using TMDB API gives the user the ability to log in and log out choosing between light mode and dark mode, search movies by categories or by names and also add them to either a favorite list or watchlist to enjoy them later. I implement also Alan Ai to assist the user to do some useful functions just by talking with the app.',
+    info: 'Filmpire is a creative multi-page website clone of the Netflix app. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , Redux for state management,Alan Ai to assist the user to do some useful functions just by talking with the app and more.',
+    info2: '',
     url: 'https://filmpire-samehrefaay.netlify.app/',
     repo: 'https://github.com/SamehRefaay/filmpire_smr', // if no repo, the button will not show up
   },
@@ -43,7 +43,8 @@ export const projectsData = [
     img: 'admin-dashboard.png',
     title: 'Admin Dashboard',
     info: 'Admin Dashboard is a creative multi-page website great for any admin or IT dashboard. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , and more.',
-    info2: 'the dashboard has two mode light mode and dark one with alot of charts and data tables i hope you find this interesting',
+    info2:
+      'the dashboard has two mode light mode and dark one with alot of charts and data tables i hope you find this interesting',
     url: 'https://admin-dashboard-samehrefaay.netlify.app/',
     repo: 'https://github.com/SamehRefaay/admin_dashboard_repo', // if no repo, the button will not show up
   },
