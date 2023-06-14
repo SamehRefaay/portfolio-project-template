@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'filmpire.png',
+    img: 'filmpire-screens.png',
     title: 'Filmpire',
     info: 'Filmpire is a creative multi-page website clone of the Netflix app. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , Redux for state management,Alan Ai to assist the user to do some useful functions just by talking with the app and more.',
     info2: '',
@@ -40,47 +40,46 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'admin-dashboard.png',
+    img: 'admin-dashboard-screens.png',
     title: 'Admin Dashboard',
     info: 'Admin Dashboard is a creative multi-page website great for any admin or IT dashboard. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , and more.',
-    info2:
-      'the dashboard has two mode light mode and dark one with alot of charts and data tables i hope you find this interesting',
+    info2: '',
     url: 'https://admin-dashboard-samehrefaay.netlify.app/',
     repo: 'https://github.com/SamehRefaay/admin_dashboard_repo', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'elzero-dashboard.png',
+    img: 'elzero-dashboard-screens.png',
     title: 'Elzero Dashboard',
-    info: 'Elzero Dashboard is a creative multi-page website designed by Osama Elzero who shares it as a free design. this design is great for a portfolio, agency, or any other web page. Free google font (Cairo Font) used.',
-    info2: 'I have used my skills in HTML CSS to convert this PSD file into code.',
+    info: 'Elzero Dashboard is a creative multi-page website designed by Osama Elzero who shares it as a free design. this design is great for a portfolio, agency, or any other web page. Free google font (Cairo Font) used. I have used my skills in HTML CSS to convert this PSD file into code.',
+    info2: '',
     url: 'https://samehrefaay.github.io/elzero-dashboard/index.html',
     repo: 'https://github.com/SamehRefaay/elzero-dashboard', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'elzero-template.png',
+    img: 'elzero-template-screens.png',
     title: 'Elzero Template',
-    info: 'Elzero Template is a creative one-page PSD template made by Elzero great for a portfolio, agency, or any other web page.PSD file that is fully layered and grouped. Free google font used.',
-    info2: 'I have used my skills in HTML CSS and javascript to convert this PSD file into code.',
+    info: 'Elzero Template is a creative one-page PSD template made by Elzero great for a portfolio, agency, or any other web page.PSD file that is fully layered and grouped. Free google font used.I have used my skills in HTML CSS and javascript to convert this PSD file into code.',
+    info2: '',
     url: 'https://samehrefaay.github.io/elzero-template-repo/',
     repo: 'https://github.com/SamehRefaay/elzero-template-repo', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'kasper.jpg',
+    img: 'kasper-screens.png',
     title: 'Kasper Landing Page',
-    info: 'Kasper is a creative one-page PSD template made by Graphberry great for a portfolio, agency, or any other web page.PSD file that is fully layered and grouped. Free google font used.',
-    info2: 'I have used my skills in HTML CSS and javascript to convert this PSD file into code.',
+    info: 'Kasper is a creative one-page PSD template made by Graphberry great for a portfolio, agency, or any other web page.PSD file that is fully layered and grouped. Free google font used.I have used my skills in HTML CSS and javascript to convert this PSD file into code.',
+    info2: '',
     url: 'https://samehrefaay.github.io/kasper-template-repo/',
     repo: 'https://github.com/SamehRefaay/kasper-template-repo', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'leon.jpg',
+    img: 'leon-screens.png',
     title: 'Leon Landing Page',
-    info: 'Leon is a free PSD template made by Graphberry. It comes in a modern, flat design with vibrant colors. This landing page is great for representing your portfolio or other websites.',
-    info2: 'I have translated the design into code using my skills in HTML and CSS. ',
+    info: 'Leon is a free PSD template made by Graphberry. It comes in a modern, flat design with vibrant colors. This landing page is great for representing your portfolio or other websites.I have translated the design into code using my skills in HTML and CSS.',
+    info2: ' ',
     url: 'https://samehrefaay.github.io/leon_template_repo/',
     repo: 'https://github.com/SamehRefaay/leon_template_repo', // if no repo, the button will not show up
   },

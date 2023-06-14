@@ -27,11 +27,18 @@ const Projects = () => {
       <Container>
         <div className="project-wrapper">
           <Title title="Projects" />
-          {projects.map((project) => {
+          {projects.map((project, index) => {
             const { title, info, info2, url, repo, img, id } = project;
 
             return (
-              <Row key={id}>
+              <Row
+                key={id}
+                style={
+                  index % 2 !== 0
+                    ? { display: 'flex', alignItems: 'center', flexDirection: 'row-reverse' }
+                    : { display: 'flex', alignItems: 'center' }
+                }
+              >
                 <Col lg={4} sm={12}>
                   <Fade
                     left={isDesktop}
