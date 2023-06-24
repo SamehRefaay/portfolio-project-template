@@ -49,12 +49,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'bondi.png',
+    img: 'bondi-screens.png',
     title: 'Bondi',
     info: 'Bondi is a website great for any bussiness. I develop this app using front-end development technology like HTML,CSS,and BOOTSTRAP ,the design is simple and clean',
     info2: '',
-    url: 'https://admin-dashboard-samehrefaay.netlify.app/',
-    repo: 'https://github.com/SamehRefaay/admin_dashboard_repo', // if no repo, the button will not show up
+    url: 'https://samehrefaay.github.io/bondi-smr-repo/',
+    repo: 'https://github.com/SamehRefaay/bondi-smr-repo', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
