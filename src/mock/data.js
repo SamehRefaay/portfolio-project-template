@@ -42,7 +42,16 @@ export const projectsData = [
     id: nanoid(),
     img: 'admin-dashboard-screens.png',
     title: 'Admin Dashboard',
-    info: 'Admin Dashboard is a creative multi-page website great for any admin or IT dashboard. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI make the design to be simple and clean , and more.',
+    info: 'Admin Dashboard is a creative multi-page website great for any admin or IT dashboard. I develop this app using the latest technology in the front-end development field like React-js as a javascript platform, Material UI making the design to be simple and clean, and more.',
+    info2: '',
+    url: 'https://admin-dashboard-samehrefaay.netlify.app/',
+    repo: 'https://github.com/SamehRefaay/admin_dashboard_repo', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'bondi.png',
+    title: 'Bondi',
+    info: 'Bondi is a website great for any bussiness. I develop this app using front-end development technology like HTML,CSS,and BOOTSTRAP ,the design is simple and clean',
     info2: '',
     url: 'https://admin-dashboard-samehrefaay.netlify.app/',
     repo: 'https://github.com/SamehRefaay/admin_dashboard_repo', // if no repo, the button will not show up
